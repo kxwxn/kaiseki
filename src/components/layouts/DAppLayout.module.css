@@ -1,0 +1,14 @@
+.dappContainer {
+  width: 100%;
+  min-height: 100vh;
+  background-color: var(--background);
+  color: var(--foreground);
+  max-width: 430px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.mainContent {
+  width: 100%;
+  padding: 16px 0;
+} 
